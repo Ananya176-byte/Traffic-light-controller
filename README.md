@@ -7,7 +7,7 @@ FEATURES:
 
 ✅ Four-way traffic signal system (North, East, South, West)
 
-✅ Each signal lasts for 3 seconds (Green → Yellow → Red)
+✅ Each signal lasts for 3 seconds (Red → Yellow → Green)
 
 ✅ 7-segment display countdown timer for visual timing feedback
 
